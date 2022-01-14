@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T08:12:21.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="h1DMQzkR4r_EKUNWMvRE" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T08:14:21.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qHzBqAac-yVfbZzdnw2r" version="15.8.8" type="github">
   <diagram id="auqIlEevhEvT4CorPYaI" name="Page-1">
     <mxGraphModel dx="946" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="AAeohdOeA5F3trq4Viol-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AAeohdOeA5F3trq4Viol-2" target="AAeohdOeA5F3trq4Viol-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AAeohdOeA5F3trq4Viol-6" value="刷新泳道规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAeohdOeA5F3trq4Viol-5">
+        <mxCell id="AAeohdOeA5F3trq4Viol-6" value="刷新泳道规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;" vertex="1" connectable="0" parent="AAeohdOeA5F3trq4Viol-5">
           <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -26,10 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-2" value="Arthur网关" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="70" width="540" height="90" as="geometry" />
+          <mxGeometry x="180" y="100" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-3" value="泳道服务" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="75" width="80" height="80" as="geometry" />
+          <mxGeometry x="850" y="105" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1.007;entryY=0.193;entryDx=0;entryDy=0;exitX=0.002;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;sketch=1;" edge="1" parent="1" source="AAeohdOeA5F3trq4Viol-12" target="AAeohdOeA5F3trq4Viol-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -62,8 +62,8 @@
         <mxCell id="AAeohdOeA5F3trq4Viol-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AAeohdOeA5F3trq4Viol-26" target="AAeohdOeA5F3trq4Viol-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AAeohdOeA5F3trq4Viol-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-90" width="30" height="60" as="geometry" />
+        <mxCell id="AAeohdOeA5F3trq4Viol-26" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="-30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;sketch=1;" edge="1" parent="1" source="AAeohdOeA5F3trq4Viol-30" target="AAeohdOeA5F3trq4Viol-33">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-55" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="840" width="540" height="110" as="geometry" />
+          <mxGeometry x="180" y="840" width="540" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-56" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="860" width="110" height="40" as="geometry" />
@@ -154,6 +154,21 @@
         </mxCell>
         <mxCell id="AAeohdOeA5F3trq4Viol-58" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="860" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAeohdOeA5F3trq4Viol-59" value="Apollo" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="930" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAeohdOeA5F3trq4Viol-60" value="Apollo" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="930" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAeohdOeA5F3trq4Viol-61" value="Apollo" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="930" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAeohdOeA5F3trq4Viol-62" value="MySQL&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Apollo%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsketch%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22200%22%20y%3D%22930%22%20width%3D%22110%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="990" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAeohdOeA5F3trq4Viol-63" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1050" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
