@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T02:48:27.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.6" etag="3ajhsO1qJfSBN9Zq1l3U" type="github"><diagram id="tKxjXExV8qg8LL1oA2yw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-28T03:00:44.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GvEkGA19UDp0Bq_jyVwn" version="16.2.6" type="github">
+  <diagram id="tKxjXExV8qg8LL1oA2yw" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.302;entryY=0;entryDx=0;entryDy=0;sketch=1;entryPerimeter=0;" edge="1" parent="1" source="9JjcO90Rr_lGr2KQv83W-3" target="9JjcO90Rr_lGr2KQv83W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-3" value="至信钱包SDK" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="9JjcO90Rr_lGr2KQv83W-4" target="9JjcO90Rr_lGr2KQv83W-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-4" value="比心NFT服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-5" value="至信链服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="480" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="9JjcO90Rr_lGr2KQv83W-6" target="9JjcO90Rr_lGr2KQv83W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-6" value="比心业务服务" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;" edge="1" parent="1" source="9JjcO90Rr_lGr2KQv83W-7" target="9JjcO90Rr_lGr2KQv83W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JjcO90Rr_lGr2KQv83W-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
